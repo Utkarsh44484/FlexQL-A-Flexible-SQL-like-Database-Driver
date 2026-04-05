@@ -15,7 +15,7 @@ make
 
 ---
 
-## 5.2 Execution
+##  Execution
 
 The server and client must be executed in separate terminal sessions to maintain the IPC socket connection.
 
